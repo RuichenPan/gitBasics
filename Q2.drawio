@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T17:29:03.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="D72AOG5mH-Q9twOIL5yW" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T17:31:24.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="9yd4w10cBEAV9XyTbeh_" version="13.8.5" type="github">
   <diagram id="CeABuaRNACaWVLpUSR1B" name="Page-1">
-    <mxGraphModel dx="3539" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4013" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
             <mxPoint x="760.6199999999999" y="-65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_aZMvhkOhM3LjonHU1bp-2" value="Pool" style="swimlane;html=1;horizontal=0;startSize=20;rotation=90;" vertex="1" parent="1">
+        <mxCell id="_aZMvhkOhM3LjonHU1bp-2" value="Supplier" style="swimlane;html=1;horizontal=0;startSize=20;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1200" y="-453" width="980" height="490" as="geometry" />
         </mxCell>
         <mxCell id="_aZMvhkOhM3LjonHU1bp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_aZMvhkOhM3LjonHU1bp-2" source="_aZMvhkOhM3LjonHU1bp-4" target="_aZMvhkOhM3LjonHU1bp-5">
@@ -170,8 +170,10 @@
             <mxPoint x="230" y="-145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_aZMvhkOhM3LjonHU1bp-22" value="Pool" style="swimlane;html=1;horizontal=0;startSize=20;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="-413" width="980" height="410" as="geometry" />
+        <mxCell id="_aZMvhkOhM3LjonHU1bp-22" value="Customer" style="swimlane;html=1;horizontal=0;startSize=20;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-413" width="980" height="410" as="geometry">
+            <mxRectangle x="305" y="-708" width="30" height="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_aZMvhkOhM3LjonHU1bp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_aZMvhkOhM3LjonHU1bp-22" source="_aZMvhkOhM3LjonHU1bp-23" target="_aZMvhkOhM3LjonHU1bp-43">
           <mxGeometry relative="1" as="geometry" />
