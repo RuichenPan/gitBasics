@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T17:09:10.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="NC8l7fT3zcikAA_yQvbR" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T17:14:58.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="7zcD8_0355PPEyrPD572" version="13.8.5" type="github">
   <diagram id="KpwYvhkPx8qY-jY_Czm6" name="Page-1">
-    <mxGraphModel dx="3539" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2354" dy="-192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
         <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-78" value="Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
           <mxGeometry y="645.6199999999999" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-83" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;sent confirmation to customers(COD)&lt;/span&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=message;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
+        <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-83" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&amp;nbsp;Confirmation to customers(COD) Sent&lt;/span&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=message;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
           <mxGeometry x="319" y="730" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-90" value="Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
           <mxGeometry x="10" y="730" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-92" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;sent to the customer that the order cannot be fulfilled&lt;/span&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=message;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
+        <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-92" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Customer that the order cannot be fulfilled Sent&lt;/span&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=throwing;symbol=message;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
           <mxGeometry x="640" y="800" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z5ZH14Ys6QMQ1bE4xrXP-97" value="Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Z5ZH14Ys6QMQ1bE4xrXP-10">
